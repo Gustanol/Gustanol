@@ -1,4 +1,4 @@
-# Hi 👋! I'm Gustavo! A full stack learner! 🧑‍💻
+# Hi! 👋 I'm Gustavo! A full stack learner! 🧑‍💻
 
 # 💫 About Me:
 ✨ I'm interested in backend projects<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about web development<br>🤝 I love to talk about code. Let's Discuss 😊
