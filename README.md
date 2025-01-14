@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=cobalt&langs_count=8)
 ![](https://github-readme-stats.vercel.app/api?username=Gustanol&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gustanol&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gustanol&theme=cobalt&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gustanol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
