@@ -5,7 +5,7 @@ I'm Gustavo! A full stack and networking student! 🧑‍💻
 # 💫 About Me:
 - ✨ I'm interested in web and backend projects
 - 🌱 I’m currently learning TypeScript and Spring Boot framework
-- 💻 I like use Cisco Packet Tracer to build my own networks
+- 💻 I like to use Cisco Packet Tracer to build my own networks
 - 💬 Ask me about web development and networking
 - 🤝 I love to talk about code. Let's Discuss 😊
 
