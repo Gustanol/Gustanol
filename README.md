@@ -23,7 +23,6 @@ I'm Gustavo! A full stack and networking student! 🧑‍💻
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=transparent&langs_count=15&layout=compact&title_color=ffffff&text_color=ffffff)
-
 ![](https://github-readme-stats.vercel.app/api?username=Gustanol&show_icons=true&hide=issues,prs&theme=transparent&title_color=ffffff&text_color=ffffff)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustanol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff)
