@@ -34,6 +34,7 @@ I'm Gustavo! A full stack and networking student! 🧑‍💻
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Gustanol&show_icons=true&hide=issues,prs" />
 </picture>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustanol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff)
 
