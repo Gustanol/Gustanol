@@ -42,10 +42,13 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=transparent&langs_count=20&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Gustanol&show_icons=true&hide=issues,prs&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gustanol&theme=transparent)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&layout=compact&theme=transparent)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=transparent&langs_count=20&layout=compact)
+
+  ![](https://github-readme-stats.vercel.app/api?username=Gustanol&show_icons=true&hide=issues,prs&theme=transparent)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gustanol&theme=transparent)](https://git.io/streak-stats)
+
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&layout=compact&theme=transparent)
 
 </div>
 
