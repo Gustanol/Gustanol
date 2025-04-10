@@ -48,7 +48,7 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Gustanol&theme=transparent)](https://git.io/streak-stats)
 
-  ![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&theme=transparent)
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=Gustanol&layout=compact&theme=transparent)
 
 </div>
 
