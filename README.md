@@ -17,6 +17,7 @@
 # 😊 My Roadmap:
 - [x] Start learning TypeScript
 - [x] Start learning Java
+- [x] Start learning Angular
 - [ ] Make a portfolio
 
 ---
