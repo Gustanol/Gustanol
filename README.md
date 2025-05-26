@@ -55,6 +55,12 @@
 
 ---
 
+# 🦾 LeetCode Stats:
+
+![](https://leetcard.jacoblin.cool/gustanol?border=0&radius=20&ext=activity)
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gustanol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
