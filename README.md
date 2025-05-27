@@ -57,7 +57,11 @@
 
 # 🦾 LeetCode Stats:
 
-![](https://leetcard.jacoblin.cool/gustanol?border=0&radius=20&ext=activity)
+<div align="center">
+  
+  ![](https://leetcard.jacoblin.cool/gustanol?border=0&radius=20&ext=activity)
+  
+</div>
 
 ---
 
