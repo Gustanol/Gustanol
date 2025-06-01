@@ -26,13 +26,13 @@
 # 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/user">
+  <a href="https://www.linkedin.com/in/gustavo-a-b24668316">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/user">
+  <a href="https://leetcode.com/u/gustanol">
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
-  <a href="mailto:email@gmail.com">
+  <a href="mailto:gualeixos456@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
