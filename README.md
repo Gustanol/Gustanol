@@ -7,7 +7,7 @@
 # 💫 About Me:
 - ✨ I'm interested in web and backend projects
 - 🌱 I like to build interesting and responsive websites
-- 🧑‍💻 I like to build and use some APIs in my projects
+- 🧑‍💻 I like to build and use some REST APIs in my projects
 - 💻 I like to use Cisco Packet Tracer to build my own networks
 - 💬 Ask me about web development and networking
 - 🤝 I love to talk about code. Let's Discuss 😊
@@ -15,9 +15,9 @@
 ---
 
 # 😊 My Roadmap:
-- [x] Start learning TypeScript
 - [x] Start learning Java
 - [x] Start learning Angular
+- [ ] Start learning microservices
 - [ ] Make a portfolio
 
 ---
