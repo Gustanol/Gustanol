@@ -1,3 +1,5 @@
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=317bbd)](https://github.com/kyechan99/capsule-render)
+
 <h1 align="center">Hi! 👋 I am Gustavo!</h1>
 
 <p align="center">
