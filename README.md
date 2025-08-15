@@ -177,7 +177,7 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=transparent&langs_count=20&layout=compact&hide=html,css,lua)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustanol&theme=transparent&langs_count=20&hide=html,css,lua)
 
   ![](https://github-readme-stats.vercel.app/api?username=Gustanol&show_icons=true&hide=issues,prs&theme=transparent)
 
