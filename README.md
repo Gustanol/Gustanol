@@ -28,7 +28,7 @@
 # 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-a-b24668316">
+  <a href="https://www.linkedin.com/in/gustanol">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/gustanol">
