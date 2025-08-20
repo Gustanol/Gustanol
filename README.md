@@ -15,12 +15,18 @@
 - 💬 Ask me about backend and web development and networking
 - 🤝 I love to talk about code. Let's Discuss 😊
 
+<div align="center">
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+  
+</div>
+
 <br>
 
 # 😊 My Roadmap:
-- [x] Start learning Java
 - [x] Start learning Angular
-- [ ] Start learning microservices
+- [x] Start learning microservices
 - [ ] Make a portfolio
 
 <br>
@@ -47,9 +53,9 @@
    <div>
     <span><h4>Programming Languages</h4></span>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
@@ -57,6 +63,14 @@
     <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
   </div>
+</div>
+
+<div width="100%" align="center">
+  <div>
+    <span><h4>IDEs/Editors</h4></span>
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white">
+  </div>   
 </div>
 
 <div width="100%" align="center">
@@ -69,16 +83,12 @@
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA?logo=bootstrap&logoColor=fff">
   </div>
 </div>
 
 <div width="100%" align="center">
   <div>
     <span><h4>Frontend</h4></span>
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA?logo=bootstrap&logoColor=fff">
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
@@ -94,7 +104,6 @@
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
   </div>   
 </div>
 
@@ -125,21 +134,6 @@
     <span><h4>Package Managers</h4></span>
     <img src="https://img.shields.io/badge/Maven-C71A36.svg?logo=Apache-Maven&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/NuGet-004880.svg?logo=NuGet&logoColor=white">
-  </div>   
-</div>
-
-<div width="100%" align="center">
-  <div>
-    <span><h4>Cloud Systems</h4></span>
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white">
-    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
   </div>   
 </div>
 
@@ -155,8 +149,6 @@
   <div>
     <span><h4>Documentation</h4></span>
     <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?logo=Obsidian&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
     <img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
   </div>   
 </div>
@@ -210,5 +202,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustanol/Gustanol/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Gustanol/Gustanol/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
