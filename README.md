@@ -113,7 +113,7 @@
 
 <div width="100%" align="center">
   <div>
-    <span><h4>DevOps</h4></span>
+    <span><h4>DevOps/GitOps</h4></span>
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
     <img src="https://img.shields.io/badge/Podman-892CA0.svg?logo=Podman&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
@@ -137,6 +137,7 @@
   <div>
     <span><h4>Package Managers</h4></span>
     <img src="https://img.shields.io/badge/Maven-C71A36.svg?logo=Apache-Maven&logoColor=white">
+    <img src="https://img.shields.io/badge/Gradle-06A0CE.svg?logo=Gradle&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
   </div>   
 </div>
