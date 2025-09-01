@@ -29,7 +29,7 @@
 - [x] Start leaning low-level programming
 - [ ] Start learning blockchain
   - [ ] Make some projects with it
-- [ ] Make a portfolio
+- [ ] Make a portfolio to group all about me
 
 <br>
 
