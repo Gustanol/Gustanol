@@ -9,7 +9,7 @@
 # 💫 About Me:
 - ✨ I'm interested in backend projects
 - 🌱 I'm VERY interested in low-level programming (C is my passion) 🤓
-- 🧑‍💻 I like to build scalable and very secure projects, using, majority, modern frameworks, such as Spring (❤️ Java)
+- 🧑‍💻 I like to build scalable and very secure projects, using modern frameworks, such as Spring (❤️ Java)
 - 💻 I like to use Cisco Packet Tracer to build my own networks
 - 🎓 I like to solve LeetCode problems
 - 💬 Ask me about programming and networking
@@ -25,8 +25,10 @@
 <br>
 
 # 😊 My Roadmap:
-- [x] Start learning Angular
 - [x] Start learning microservices
+- [x] Start leaning low-level programming
+- [ ] Start learning blockchain
+  - [ ] Make some projects with it
 - [ ] Make a portfolio
 
 <br>
