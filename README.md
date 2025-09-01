@@ -7,9 +7,9 @@
 </p>
 
 # 💫 About Me:
-- ✨ I'm interested backend projects
+- ✨ I'm interested in backend projects
 - 🌱 I'm VERY interested in low-level programming (C is my passion) 🤓
-- 🧑‍💻 I like to build and use some REST APIs in my projects
+- 🧑‍💻 I like to build scalable and very secure projects, using, majority, modern frameworks, such as Spring (❤️ Java)
 - 💻 I like to use Cisco Packet Tracer to build my own networks
 - 🎓 I like to solve LeetCode problems
 - 💬 Ask me about programming and networking
