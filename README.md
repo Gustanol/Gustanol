@@ -3,7 +3,7 @@
 <h1 align="center">Hi! 👋 I am Gustavo!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+Java+programmer!;A+Full+Stack+learner!;A+network+learner!;A+cybersecurity+learner!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+backend+programmer!;A+low-level+programming+lover;A+Linux+user;A+network+learner!;A+cybersecurity+learner!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 # 💫 About Me:
