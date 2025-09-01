@@ -7,13 +7,13 @@
 </p>
 
 # 💫 About Me:
-- ✨ I'm interested in web and backend projects
-- 🌱 I like to build interesting and responsive websites
+- ✨ I'm interested backend projects
+- 🌱 I'm VERY interested in low-level programming (C is my passion) 🤓
 - 🧑‍💻 I like to build and use some REST APIs in my projects
 - 💻 I like to use Cisco Packet Tracer to build my own networks
 - 🎓 I like to solve LeetCode problems
-- 💬 Ask me about backend and web development and networking
-- 🤝 I love to talk about code. Let's Discuss 😊
+- 💬 Ask me about programming and networking
+- 🤝 I love to talk about things I like. Let's Discuss 😊
 
 <div align="center">
 
