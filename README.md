@@ -19,6 +19,8 @@
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+
+[![wakatime](https://wakatime.com/badge/user/0e83ec43-2bf9-4f4d-8d60-8f878c4fbd26.svg)](https://wakatime.com/@0e83ec43-2bf9-4f4d-8d60-8f878c4fbd26)
   
 </div>
 
