@@ -27,10 +27,10 @@
 <br>
 
 # 😊 My Roadmap:
-- [x] Start learning microservices
+- [x] Start learning microservices architecture pattern
 - [x] Start leaning low-level programming
 - [ ] Start learning blockchain
-  - [ ] Make some projects with it
+  - [ ] Make some projects about it
 - [ ] Make a portfolio to group all about me
 
 <br>
