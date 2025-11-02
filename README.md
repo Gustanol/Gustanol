@@ -66,9 +66,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
-    <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
   </div>
 </div>
 
@@ -82,13 +79,11 @@
 
 <div width="100%" align="center">
   <div>
-    <span><h4>Frameworks/Libraries</h4></span>
+    <span><h4>Frameworks/Environments</h4></span>
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=fff">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
     <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff">
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
   </div>
 </div>
