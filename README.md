@@ -58,8 +58,9 @@
 <div width="100%" align="center">
    <div>
     <span><h4>Programming Languages</h4></span>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/-x86%20Assembly-000?&logo=assemblyscript">     <br>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
