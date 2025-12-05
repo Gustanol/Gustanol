@@ -13,7 +13,7 @@
 - 💻 I like to use Cisco Packet Tracer to build my own networks
 - 🎓 I like to solve LeetCode problems
 - 💬 Ask me about programming and networking
-- 🖥️ I Arch Linux 🥸
+- 🖥️ I use Arch Linux 🥸
 
 <div align="center">
 
